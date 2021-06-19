@@ -1,21 +1,13 @@
-## Mojave Sun
+## Hokuto No Ken 13
 
-[![Build Status](https://github.com/Mojave-Sun/mojave-sun/workflows/Run%20tests/badge.svg)](https://github.com/Mojave-Sun/mojave-sun/actions?query=workflow%3A%22Run+tests%22)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://user-images.githubusercontent.com/8171642/50290880-ffef5500-043a-11e9-8270-a2e5b697c86c.png) [![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
 
-* **Website:** Soon
-* **Code:** https://github.com/Mojave-Sun/mojave-sun
-* **Wiki:** Soon
-* **Codedocs:** Soon
-* **Mojave Sun Discord:** Soon
+* **Discord:** Soon
 * **Coderbus Discord:** https://discord.gg/Vh8TJp9
 
-Mojave Sun is a post-apocalyptic SS13 server based on modern /tg/station.
-
-## Requirements for contributors
-[Guidelines for Contributors](.github/CONTRIBUTING.md)
+Hokuto No Ken 13 is a post-apocalyptic SS13 server based on modern /tg/station.
 
 ## LICENSE
 
