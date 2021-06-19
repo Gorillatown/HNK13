@@ -1,14 +1,1 @@
-<!-- HEY LISTEN!!! -->
-
-<!-- Changelogs will not be used for now.  We will likely require changelogs when we launch. -->
-
-<!-- Write **BELOW** The Headers and **ABOVE** The comments else it may not be viewable. -->
-<!-- You can view Contributing.MD for a detailed description of the pull request process. -->
-
-## About The Pull Request
-
-<!-- Describe The Pull Request. Please be sure every change is documented or this can delay review and even discourage maintainers from merging your PR! -->
-
-## Why It's Good For The Game
-
-<!-- Please add a short description of why you think these changes would benefit the game. If you can't justify it in words, it might not be worth adding. -->
+All you gots to do is compile your shit, and run it its that easy.
