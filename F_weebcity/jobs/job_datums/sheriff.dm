@@ -1,20 +1,20 @@
-/datum/job/ms13/town/sheriff
-	title = "Town Sheriff"
-	selection_color = "#4feb64"
+/datum/job/weebcity/sheriff
+	title = "Sheriff"
 	total_positions = 1
 	spawn_positions = 1
+	selection_color = "#4feb64"
 	supervisors = "The Mayor."
 	description = "Enforce the Mayor's law upon the Town with the assistance of your Deputies by any means possible."
 	forbid = ""
 	enforce = ""
 
-	outfit = /datum/outfit/job/ms13/town/sheriff
+	outfit = /datum/outfit/job/weebcity/sheriff
 
-	display_order = JOB_DISPLAY_ORDER_MS13_SHERIFF
+	display_order = JOB_DISPLAY_ORDER_SHERIFF
 
-/datum/outfit/job/ms13/town/sheriff
+/datum/outfit/job/weebcity/sheriff
 	name = "_Town Sheriff"
-	jobtype = /datum/job/ms13/town/sheriff
+	jobtype = /datum/job/weebcity/sheriff
 
 	id = 		 /obj/item/card/id/ms13/sheriff
 	head = 	     /obj/item/clothing/head/helmet/ms13/cowboy/sheriff
@@ -28,5 +28,6 @@
 	suit_store = /obj/item/gun/ballistic/shotgun/ms13/lever/cowboy
 	r_pocket = /obj/item/ammo_box/ms13/tube357
 	l_pocket = /obj/item/ammo_box/ms13/tube357
-/datum/outfit/job/ms13/town/sheriff/pre_equip(mob/living/carbon/human/H)
+
+/datum/outfit/job/weebcity/pre_equip(mob/living/carbon/human/H)
 	..()

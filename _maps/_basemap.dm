@@ -13,6 +13,7 @@
 		#include "map_files\IceBoxStation\IceBoxStation.dmm"
 		#include "map_files\Mammoth\Mammoth.dmm"
 		#include "map_files\CombatArena\CombatArena.dmm"
+		#include "map_files\Fuckdrome\Fuckdrome.dmm"
 
 		#ifdef CIBUILDING
 			#include "templates.dm"

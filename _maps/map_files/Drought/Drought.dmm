@@ -5807,7 +5807,6 @@
 /area/ms13/sunny_dale)
 "oxa" = (
 /obj/effect/decal/cleanable/blood/gibs/bubblegum,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/wood/ms13/common,
 /area/ms13/sunny_dale)
 "oxs" = (
@@ -6995,7 +6994,6 @@
 /obj/structure/bed/ms13/bedframe/metal,
 /obj/effect/decal/cleanable/blood/old,
 /obj/structure/bed/ms13/mattress/stained,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/item/restraints/handcuffs,
 /turf/open/floor/wood/ms13/carpet,
 /area/ms13/sunny_dale)

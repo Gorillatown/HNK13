@@ -1,0 +1,314 @@
+"aB" = (/obj/effect/mapping_helpers/sunlight/roofSetter,/obj/machinery/light/dim{dir = 8},/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"aI" = (/obj/item/reagent_containers/hypospray/medipen/stimpak,/turf/open/floor/plasteel/ms13/metal/plate,/area/ms13/snow/forest)
+"bh" = (/turf/open/floor/plating/ground/sidewalk,/area/ms13/snow/forest)
+"bj" = (/obj/effect/spawner/lootdrop/ms13/gun/lowrandom,/obj/effect/spawner/lootdrop/ms13/gun/lowrandom,/obj/effect/spawner/lootdrop/ms13/gun/lowrandom,/obj/effect/spawner/lootdrop/ms13/gun/lowrandom,/obj/structure/table/ms13/metal,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"bN" = (/obj/structure/rack,/obj/item/clothing/under/ms13/ncr/ranger,/obj/item/clothing/under/ms13/ncr/ranger/patrol,/obj/item/clothing/under/ms13/ncr/ranger/patrol,/obj/item/clothing/under/ms13/ncr/ranger/patrol,/obj/item/clothing/under/ms13/ncr/ranger,/obj/item/clothing/under/ms13/ncr/ranger,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"bW" = (/obj/effect/turf_decal/MS13/road/verticalline,/turf/open/floor/plating/ground/road,/area/ms13)
+"cB" = (/obj/structure/closet/crate/ms13/woodcrate,/turf/open/floor/plasteel/ms13/metal/plate,/area/ms13/snow/forest)
+"dx" = (/obj/machinery/light/small,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"dN" = (/obj/structure/rack,/obj/item/clothing/under/ms13/ncr/ncrcf,/obj/item/clothing/under/ms13/ncr/ncrcf/jacket,/obj/item/clothing/under/ms13/ncr/ncrcf/jacket,/obj/item/clothing/under/ms13/ncr/ncrcf/jacket,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"eY" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/cowboy,/obj/item/clothing/under/ms13/wasteland/cowboy,/obj/item/clothing/under/ms13/wasteland/cowboy,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"fh" = (/obj/structure/stairs/north,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"fY" = (/obj/effect/landmark/start/weebcity/farmer,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"gA" = (/obj/machinery/power/ms13/streetlamp{dir = 4},/turf/open/floor/plating/ground/sidewalk,/area/ms13)
+"hH" = (/obj/machinery/light/dim{dir = 8},/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"hT" = (/turf/open/floor/plasteel/ms13/metal/stayclear,/area/ms13/snow/forest)
+"ig" = (/obj/structure/filingcabinet/ms13/mail,/turf/open/floor/plating/ground/sidewalk,/area/ms13)
+"iq" = (/obj/structure/table/ms13/metal,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"iS" = (/turf/closed/wall/ms13/brick/alt,/area/ms13/sunny_dale)
+"ji" = (/obj/structure/railing{dir = 4},/obj/effect/mapping_helpers/sunlight/roofSetter,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"ko" = (/obj/structure/table/low_wall/brick/alt,/obj/structure/window/fulltile/ms13/glass,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"kQ" = (/obj/effect/mapping_helpers/sunlight/roofSetter,/obj/machinery/light/dim{dir = 4},/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"la" = (/mob/living/simple_animal/hostile/retaliate/ms13/brahmin,/turf/open/floor/plating/ground/road,/area/ms13)
+"ln" = (/obj/item/storage/ms13/sack,/obj/item/storage/ms13/sack,/obj/item/storage/ms13/sack,/obj/structure/rack,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"lB" = (/obj/structure/guillotine,/turf/open/floor/plating/ground/road,/area/ms13)
+"lI" = (/obj/structure/rack,/obj/item/clothing/suit/ms13/ljacket/reinforced,/obj/item/clothing/suit/ms13/trench/battle,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"mg" = (/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"mi" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/lumberjack,/obj/item/clothing/under/ms13/wasteland/lumberjack,/obj/item/clothing/under/ms13/wasteland/lumberjack,/obj/item/clothing/under/ms13/wasteland/machinist,/obj/item/clothing/under/ms13/wasteland/machinist,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"my" = (/mob/living/simple_animal/hostile/retaliate/ms13/brahmin,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"mA" = (/obj/effect/turf_decal/MS13/road/horizontalline,/turf/open/floor/plating/ground/road,/area/ms13)
+"nh" = (/obj/structure/railing{dir = 1},/obj/effect/mapping_helpers/sunlight/roofSetter,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"nH" = (/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"ob" = (/obj/structure/table/low_wall/concrete,/obj/structure/window/fulltile/ms13/glass,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"qf" = (/obj/structure/stairs{dir = 1},/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"qG" = (/obj/structure/table/ms13/metal,/obj/item/seeds/ms13/xander,/obj/item/seeds/ms13/xander,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"qK" = (/obj/structure/rack,/obj/item/clothing/suit/ms13/vest,/obj/item/clothing/suit/ms13/vest,/obj/item/clothing/suit/ms13/vest,/obj/item/clothing/suit/ms13/vest/grey,/obj/item/clothing/suit/ms13/vest/grey,/obj/item/clothing/suit/ms13/vest/cowboy,/obj/item/clothing/suit/ms13/vest/cowboy,/obj/item/clothing/suit/ms13/vest/cowboy,/obj/item/clothing/suit/ms13/vest/letterman,/obj/item/clothing/suit/ms13/vest/letterman,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"rI" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/caravaneer,/obj/item/clothing/under/ms13/wasteland/caravaneer,/obj/machinery/light/small,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"rM" = (/turf/open/openspace/ms13_no_build,/area/ms13/sunny_dale)
+"rP" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/barmansuit,/obj/item/clothing/under/ms13/wasteland/barmansuit,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"sz" = (/obj/structure/table/ms13/metal,/obj/effect/mapping_helpers/sunlight/roofSetter,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"tX" = (/obj/effect/landmark/latejoin,/turf/open/floor/plating/ground/sidewalk,/area/ms13/snow/forest)
+"ud" = (/obj/machinery/power/ms13/streetlamp{dir = 8},/turf/open/floor/plating/ground/sidewalk,/area/ms13)
+"uk" = (/obj/structure/railing{dir = 4},/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"vB" = (/obj/structure/rack,/obj/item/clothing/suit/ms13/duster,/obj/item/clothing/suit/ms13/duster,/obj/item/clothing/suit/ms13/duster/alt,/obj/item/clothing/suit/ms13/duster/alt,/obj/item/clothing/suit/ms13/ljacket/bomber,/obj/item/clothing/suit/ms13/ljacket/bomber,/obj/item/clothing/suit/ms13/ljacket/bomber,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"vH" = (/obj/effect/landmark/start/weebcity/civilian,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"wV" = (/obj/structure/stairs{dir = 1},/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"xd" = (/turf/open/floor/plating/roof,/area/ms13)
+"yg" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/army,/obj/item/clothing/under/ms13/wasteland/army,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"yv" = (/obj/structure/ms13/vehicle_ruin/van{dir = 1},/turf/open/floor/plating/ground/road,/area/ms13)
+"yI" = (/obj/structure/table/ms13/metal,/obj/item/clothing/under/ms13/wasteland/vestslacks,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"yL" = (/obj/structure/rack,/obj/item/storage/backpack/satchel/leather,/obj/item/storage/backpack/satchel/leather,/obj/item/storage/backpack/satchel/leather,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"zx" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/combat,/obj/item/clothing/under/ms13/wasteland/combat,/obj/item/clothing/under/ms13/wasteland/combat/desert,/obj/item/clothing/under/ms13/wasteland/combat/desert,/obj/item/clothing/under/ms13/wasteland/combat/desert,/obj/item/clothing/under/ms13/wasteland/merchant,/obj/item/clothing/under/ms13/wasteland/merchant,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"zM" = (/obj/effect/turf_decal/MS13/road/horizontalcrossing,/turf/open/floor/plating/ground/road,/area/ms13)
+"zX" = (/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"Ac" = (/turf/open/openspace/ms13_no_build,/area/ms13)
+"Au" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/cowboy/grey,/obj/item/clothing/under/ms13/wasteland/cowboy/grey,/obj/item/clothing/under/ms13/wasteland/cowboy/grey,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"Bk" = (/turf/closed/indestructible/rock/ms13,/area/ms13/snow/forest)
+"CY" = (/turf/closed/wall/r_wall/ms13/concrete,/area/ms13/sunny_dale)
+"Dg" = (/obj/machinery/door/unpowered/wooddoor,/turf/open/floor/plating/ground/desert,/area/ms13/sunny_dale)
+"Dy" = (/turf/closed/indestructible/rock/ms13,/area/ms13/underground/mountain)
+"Ee" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/canaan,/obj/item/clothing/under/ms13/wasteland/canaan,/obj/item/clothing/under/ms13/wasteland/canaan,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"EK" = (/obj/structure/table/ms13/metal,/obj/machinery/light/dim{dir = 4},/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"EM" = (/obj/machinery/light/dim{dir = 4},/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"ET" = (/obj/machinery/light/small{brightness = 3; dir = 8},/obj/effect/spawner/lootdrop/ms13/gun/lowrandom,/obj/effect/spawner/lootdrop/ms13/gun/lowrandom,/obj/effect/spawner/lootdrop/ms13/gun/lowrandom,/obj/effect/spawner/lootdrop/ms13/gun/lowrandom,/obj/structure/table/ms13/metal,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"FJ" = (/turf/open/openspace/ms13_no_build,/area/ms13/snow/forest)
+"Gx" = (/obj/structure/ms13/storage/large/shelf,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"GG" = (/obj/structure/closet/crate/ms13/vault_tec/pristine,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"HN" = (/obj/structure/table/low_wall/concrete,/obj/structure/window/fulltile/ms13/glass,/obj/effect/mapping_helpers/sunlight/roofSetter,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"Jf" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/caravanpants,/obj/item/clothing/under/ms13/wasteland/caravanpants,/obj/item/clothing/under/ms13/wasteland/caravanpants,/obj/item/clothing/under/ms13/wasteland/caravanpants,/obj/item/clothing/under/ms13/wasteland/merca,/obj/item/clothing/under/ms13/wasteland/merca,/obj/item/clothing/under/ms13/wasteland/warboypants,/obj/item/clothing/under/ms13/wasteland/warboypants,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"Kb" = (/obj/effect/landmark/start/weebcity/mayor,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"Ke" = (/turf/open/floor/glass,/area/ms13)
+"KN" = (/obj/structure/table/ms13/metal,/obj/structure/closet/crate/ms13/cash_register,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"KR" = (/obj/structure/table/ms13/metal,/obj/item/seeds/ms13/barrelcactus,/obj/item/seeds/ms13/xander,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"Ln" = (/obj/machinery/door/unpowered/wooddoor,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"Na" = (/obj/structure/railing{dir = 1},/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"NQ" = (/obj/structure/flora/ms13/tree/cactus,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"Ob" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/checkeredblue,/obj/item/clothing/under/ms13/wasteland/checkeredblue,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"Od" = (/obj/effect/mapping_helpers/sunlight/roofSetter,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"OV" = (/obj/structure/railing{dir = 8; pixel_y = 1},/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"Ph" = (/obj/structure/table/ms13/metal,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"Pi" = (/turf/closed/wall/ms13/scrap,/area/ms13/sunny_dale)
+"Po" = (/obj/structure/lattice/catwalk,/turf/open/openspace/ms13_no_build,/area/ms13)
+"PJ" = (/obj/structure/rack,/obj/item/clothing/suit/ms13/ljacket,/obj/item/clothing/suit/ms13/ljacket/black,/obj/item/clothing/suit/ms13/ljacket/blue,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"PU" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/cowboy/tan,/obj/item/clothing/under/ms13/wasteland/cowboy/tan,/obj/item/clothing/under/ms13/wasteland/cowboy/tan,/obj/item/clothing/under/ms13/wasteland/cowboy/tan,/obj/item/clothing/under/ms13/wasteland/cowboy/tan,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"PX" = (/obj/effect/spawner/lootdrop/ms13/medical/lowrandom,/obj/effect/spawner/lootdrop/ms13/medical/lowrandom,/obj/effect/spawner/lootdrop/ms13/medical/lowrandom,/obj/structure/table/ms13/metal,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"Qi" = (/obj/structure/table/ms13/metal,/obj/item/clothing/suit/ms13/duster/reinf,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"Qo" = (/obj/effect/landmark/observer_start,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"Qz" = (/obj/structure/rack,/obj/machinery/light/small{dir = 4},/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"QT" = (/obj/effect/landmark/start/weebcity/sheriff,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"Rr" = (/obj/structure/rack,/obj/item/clothing/under/ms13/wasteland/checkeredgreen,/obj/item/clothing/under/ms13/wasteland/checkeredgreen,/obj/item/clothing/under/ms13/wasteland/checkeredgreen,/obj/machinery/light/small{brightness = 3; dir = 8},/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"Rx" = (/turf/open/floor/plasteel/ms13/metal/stayclear{dir = 8},/area/ms13/snow/forest)
+"Sb" = (/obj/structure/table/ms13/metal,/obj/item/clothing/under/ms13/wasteland/peasant,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"Sg" = (/obj/machinery/hydroponics/ms13/soil,/turf/open/floor/plating/ground/mountain,/area/ms13/snow/forest)
+"Sm" = (/obj/effect/mapping_helpers/sunlight/roofSetter,/obj/structure/ms13/storage/large/shelf,/turf/open/floor/plasteel/ms13/concrete,/area/ms13/sunny_dale)
+"SQ" = (/obj/structure/rack,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"Tb" = (/turf/open/floor/plating/ground/sidewalk,/area/ms13)
+"Ui" = (/obj/item/reagent_containers/glass/bucket/wooden,/obj/structure/water_source/puddle,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"Wa" = (/turf/open/floor/plating/ground/mountain,/area/ms13/snow/forest)
+"Wd" = (/obj/effect/landmark/start/weebcity/doctor,/turf/open/floor/plating/ground/desert,/area/ms13/snow/forest)
+"We" = (/obj/effect/mapping_helpers/sunlight/roofSetter,/turf/open/openspace/ms13_no_build,/area/ms13/sunny_dale)
+"Wg" = (/turf/open/floor/plasteel/ms13/metal/plate,/area/ms13/snow/forest)
+"WP" = (/turf/open/floor/plating/ground/road,/area/ms13)
+"Xj" = (/obj/effect/mapping_helpers/sunlight/roofSetter,/turf/closed/wall/r_wall/ms13/concrete,/area/ms13/sunny_dale)
+"Xp" = (/obj/structure/rack,/obj/item/clothing/under/ms13/ncr/fatigues,/obj/item/clothing/under/ms13/ncr/fatigues/scout,/obj/item/clothing/under/ms13/ncr/fatigues/scout/winter,/obj/item/clothing/under/ms13/ncr/fatigues/scout/winter,/obj/item/clothing/under/ms13/ncr/fatigues/scout,/obj/item/clothing/under/ms13/ncr/fatigues,/obj/item/clothing/under/ms13/ncr/fatigues,/obj/machinery/light/small{brightness = 3; dir = 8},/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"Xs" = (/obj/structure/rack,/obj/item/clothing/under/ms13/enclave/officer,/obj/item/clothing/under/ms13/enclave/officer,/obj/item/clothing/under/ms13/enclave/officer,/turf/open/floor/wood/ms13/common,/area/ms13/sunny_dale)
+"Yz" = (/obj/effect/turf_decal/MS13/road/verticalcrossing,/turf/open/floor/plating/ground/road,/area/ms13)
+
+(1,1,1) = {"
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyqfqfDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyWaWaWaWaWaWaWaWaWaWaqfqfDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyWaWaWaWaWaWaWaWaWaWaqfqfDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyWaWaWaWaWaWaWaWaWaWaqfqfDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyWaWaWaWaWaWaWaWaWaWaWaWaDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+DyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDyDy
+"}
+(1,1,2) = {"
+BkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBk
+BkzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXNQzXzXzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXNQzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPWPWPYzWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPYzWPWPWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPWPWPYzmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAmAYzWPWPWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPWPWPYzWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPYzWPWPWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbzMzMzMTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbzMzMzMTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXgAWPbWWPTbzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXTbWPbWWPudzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXNQzXzXzXzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXNQzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYCYobobobobobCYCYCYCYCYCYCYobobobobobobCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYETbjbjbjGxnHCYCYCYCYCYCYCYnHnHnHnHnHPhCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXNQzXzXTbWPbWWPTbzXzXzXCYnHnHnHnHnHnHfhfhfhfhfhfhfhnHnHnHnHnHPhCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYhHnHnHnHnHnHfhfhfhfhfhfhfhnHnHnHnHnHEKCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYnHnHnHGGnHnHnHnHnHnHnHnHnHnHnHnHnHnHPhCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHPhCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHPhCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYnHnHnHnHnHGGnHnHnHnHnHnHnHnHnHnHnHnHnHCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHEMCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYhHGGnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYnHnHnHnHnHnHCYobobobobCYDgDgCYobobobobCYzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXNQzXzXTbWPbWWPTbzXzXzXCYnHnHnHnHnHnHCYWgWgWgWgWgbhbhWgcBWgaIWgcBzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYnHnHnHnHnHnHCYWgWgWgWgWgbhbhhTRxhTRxhTRxzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYnHnHnHnHnHnHCYFJFJzXzXzXbhbhvHWdfYKbQTzXzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYnHnHnHnHnHnHCYFJFJzXzXQotXbhzXzXzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXCYCYCYCYCYCYCYCYzXzXzXzXzXbhbhzXzXzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXgAWPbWWPTbzXzXzXFJFJFJFJFJFJFJFJzXzXzXzXzXbhbhzXzXzXzXzXzXzXzXTbWPbWWPudzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPbWWPTbzXzXzXFJFJFJFJFJFJFJFJzXzXzXzXzXbhbhzXzXzXzXzXzXzXzXTbWPbWWPTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbzMzMzMTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbigTbTbTbzMzMzMTbzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXTbWPWPWPYzWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPlaWPWPWPWPWPWPWPWPYzWPWPWPTbzXzXzXzXzXzXBk
+BkiSiSiSiSiSTbTbWPWPWPYzWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPWPYzWPWPWPTbzXzXzXzXzXzXBk
+BkiSbNmgdNiSTbTbWPWPWPYzWPWPWPWPWPWPWPWPWPWPWPWPlBWPWPWPWPWPWPWPWPWPWPWPWPlaYzWPWPWPTbzXzXzXzXzXzXBk
+BkiSXpmgXsiSTbTbTbTbTbTbTbTbTbTbTbTbmAmAmAWPWPWPWPWPWPmAmAmATbTbTbTbTbTbTbTbTbTbTbTbTbzXzXzXzXzXzXBk
+BkiSmimgJfiSTbTbTbTbTbTbTbTbTbTbTbTbWPWPWPWPWPWPWPWPWPyvWPWPTbzXzXzXzXKRqGzXzXUizXzXzXzXzXzXzXzXzXBk
+BkiSygmgzxiSiSkokoiSLnLniSkokoiSiSTbmAmAmAWPWPlaWPWPWPmAmAmATbzXzXzXNQzXzXzXzXzXzXzXPiPimgPiPiPizXBk
+BkiSmgmgmgvBqKPJlImgmgmgmgmgmglniSTbWPWPWPWPWPWPWPWPWPWPWPWPTbzXzXzXzXSgSgSgSgzXzXmyPimgmgmgmgPizXBk
+BkiSmgmgmgmgmgmgmgmgmgmgmgmgmgyLiSTbmAmAmAWPWPWPWPWPWPmAmAmATbzXzXzXzXSgSgSgSgzXzXNQPimgmgmgmgPizXBk
+BkiSObmgeYmgrPmgmgSbiqKNQimgmgQziSTbWPWPyvWPWPWPWPWPWPWPWPWPTbzXzXzXzXzXzXzXzXzXzXzXPimgmgmgmgPizXBk
+BkiSRrmgAumgEemgmgyImgmgmgmgmgmgiSTbWPWPWPWPWPWPWPWPWPWPWPWPTbzXzXNQzXzXzXzXzXzXzXzXPimgmgmgmgPizXBk
+BkiSSQmgPUmgrImgmgiqmgmgdxmgmgmgiSTbTbTbTbTbTbTbTbTbTbTbTbTbTbzXzXzXzXzXzXzXzXzXzXzXPiPiPiPiPiPizXBk
+BkiSiSiSiSiSiSiSiSiSiSiSiSiSiSiSiSzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXBk
+BkzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXzXBk
+BkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBkBk
+"}
+(1,1,3) = {"
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYCYobobobobobCYCYCYCYCYCYCYobobobCYCYCYCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHCYCYCYCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYhHnHnHnHnHukrMrMrMrMrMrMrMOVnHEMCYCYCYCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYPhnHnHnHnHukrMrMrMrMrMrMrMOVnHnHCYwVwVCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYPhnHnHnHnHnHNaNaNaNaNaNaNanHnHnHCYwVwVCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYPXnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHCYwVwVCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYPXnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHwVwVCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYnHnHnHnHnHnHGxnHnHnHnHnHnHnHnHnHnHnHnHCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHnHCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYnHnHnHnHnHPhCYobobobobCYCYCYCYobobobobCYAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYhHnHnHnHnHEKCYAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYnHnHnHnHnHPhCYAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYnHnHnHnHnHnHCYAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYnHnHnHnHnHnHCYAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcCYCYCYCYCYCYCYCYAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcxdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcxdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcxdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcxdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcxdxdxdxdxdxdxdxdxdxdxdxdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcxdxdxdxdxdxdAcAc
+AcxdxdxdxdxdxdxdxdxdxdxdxdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcxdxdxdxdxdxdAcAc
+AcxdxdxdxdKeKexdxdxdKeKexdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcxdxdxdxdxdxdAcAc
+AcxdxdxdxdKeKexdxdxdKeKexdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcxdxdxdxdxdxdAcAc
+AcxdxdxdxdKeKexdxdxdKeKexdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcxdxdxdxdxdxdAcAc
+AcxdxdxdxdxdxdxdxdxdxdxdxdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcxdxdxdxdxdxdAcAc
+AcxdxdxdxdxdxdxdxdxdxdxdxdxdxdxdxdAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+"}
+(1,1,4) = {"
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjXjHNHNHNHNHNXjXjXjXjXjXjXjHNHNHNXjXjXjXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdszszszszOdSmOdOdOdszszszszOdOdXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjaBOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdkQXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdjiWeWeXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdjiWeWeXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdjiWeWeXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdjiWeWeXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdnhnhXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdOdXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdXjHNHNHNHNXjOdOdXjHNHNHNHNXjAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjaBOdOdOdOdkQXjPoPoPoPoPoPoPoPoPoPoPoPoPoAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdXjPoPoPoPoPoPoPoPoPoPoPoPoPoAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdXjPoPoAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjOdOdOdOdOdOdXjPoPoAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcXjXjXjXjXjXjXjXjPoPoAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcPoPoPoPoPoPoPoPoPoPoAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc
+"}

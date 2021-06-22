@@ -1119,7 +1119,6 @@
 	},
 /obj/effect/decal/cleanable/blood/gibs/core,
 /obj/effect/decal/cleanable/blood/old,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/wood/ms13/common,
 /area/ms13/sunny_dale)
 "aDS" = (
@@ -1320,7 +1319,6 @@
 /area/ms13/underground/vault_atrium_Lower)
 "aKj" = (
 /obj/item/clothing/head/beekeeper_head,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/plating/ground/mountain,
 /area/ms13/underground/mountain)
 "aKs" = (
@@ -2647,7 +2645,6 @@
 /turf/open/floor/plasteel/ms13/metal,
 /area/ms13/sunny_dale)
 "bBI" = (
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/decal/cleanable/blood,
 /turf/open/floor/plating/roof,
 /area/ms13)
@@ -3899,7 +3896,6 @@
 	name = "pretend this is a dartboard";
 	pixel_y = 27
 	},
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/item/throwing_star/ms13/throwingknife,
 /turf/open/floor/wood/ms13/common,
 /area/ms13/sunny_dale)
@@ -4007,7 +4003,6 @@
 /turf/open/floor/wood/ms13/common,
 /area/ms13/sunny_dale)
 "cnK" = (
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/decal/cleanable/blood/gibs,
 /obj/item/ammo_casing/c10mm{
 	dir = 8
@@ -4271,7 +4266,6 @@
 /turf/open/floor/plating/ground/snow,
 /area/ms13)
 "cvg" = (
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/spawner/lootdrop/ms13/gun/tier1,
 /turf/open/floor/plating/ground/mountain,
 /area/ms13/underground/mountain)
@@ -5763,7 +5757,6 @@
 /turf/open/openspace/ms13_no_build,
 /area/ms13/sunny_dale)
 "dqP" = (
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/decal/cleanable/blood/splatter,
 /turf/open/floor/plating/ground/sidewalk,
 /area/ms13)
@@ -6305,10 +6298,6 @@
 "dHG" = (
 /turf/closed/indestructible/ms13/matrix,
 /area/ms13/underground/sewer)
-"dHP" = (
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
-/turf/open/floor/plating/ground/mountain,
-/area/ms13/underground/mountain)
 "dHW" = (
 /obj/structure/fence{
 	dir = 8
@@ -8066,7 +8055,6 @@
 	pixel_y = 5
 	},
 /obj/effect/decal/cleanable/blood,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/plasteel/ms13/tile,
 /area/ms13/sunny_dale)
 "eJB" = (
@@ -9032,7 +9020,6 @@
 /turf/open/floor/plasteel/ms13/tile/long,
 /area/ms13/sunny_dale)
 "fnE" = (
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/decal/cleanable/blood{
 	pixel_y = 13
 	},
@@ -9555,7 +9542,6 @@
 /obj/structure/bed/ms13/bedframe/cot,
 /obj/structure/bed/ms13/mattress/filthy,
 /obj/effect/decal/cleanable/blood/old,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/wood/ms13/carpet,
 /area/ms13/sunny_dale)
 "fCa" = (
@@ -11825,7 +11811,6 @@
 	pixel_x = 15;
 	pixel_y = 12
 	},
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/plasteel/ms13/tile,
 /area/ms13/supermarket)
 "gPU" = (
@@ -12963,7 +12948,6 @@
 "hyB" = (
 /obj/effect/decal/cleanable/glass,
 /obj/effect/decal/cleanable/blood,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/plating/ground/sidewalk,
 /area/ms13)
 "hyE" = (
@@ -16758,11 +16742,6 @@
 /obj/item/storage/bag/money,
 /turf/open/floor/plasteel/ms13/metal/rust,
 /area/ms13/sunny_dale)
-"jBL" = (
-/obj/effect/decal/cleanable/blood,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
-/turf/open/floor/plating/ground/road,
-/area/ms13)
 "jBQ" = (
 /obj/effect/mapping_helpers/sunlight/roofSetter/wood,
 /obj/structure/table/ms13/no_smooth/wood,
@@ -17055,7 +17034,6 @@
 "jKj" = (
 /obj/structure/bed/ms13/mattress/old,
 /obj/effect/decal/cleanable/blood/old,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/item/organ/eyes,
 /obj/effect/decal/cleanable/blood/gibs/old,
 /turf/open/floor/plating/ground/mountain,
@@ -17396,7 +17374,6 @@
 "jWf" = (
 /obj/structure/bed/ms13/mattress/stale,
 /obj/effect/mapping_helpers/sunlight/roofSetter/wood,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/wood/ms13/common,
 /area/ms13/supermarket)
 "jWj" = (
@@ -18549,7 +18526,6 @@
 /area/ms13)
 "kFs" = (
 /obj/item/chair/ms13/metal/broken,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/item/binoculars,
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/wood/ms13/common,
@@ -19421,7 +19397,6 @@
 "lcV" = (
 /obj/item/ammo_casing/c10mm,
 /obj/effect/decal/cleanable/blood/old,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/spawner/lootdrop/ms13/gun/tier1,
 /turf/open/floor/plating/ground/sidewalk,
 /area/ms13)
@@ -22198,11 +22173,6 @@
 	},
 /turf/open/floor/wood/ms13/common,
 /area/ms13/sunny_dale)
-"mMn" = (
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
-/obj/effect/decal/cleanable/blood/old,
-/turf/open/floor/plating/ground/mountain,
-/area/ms13/underground/mountain)
 "mMv" = (
 /obj/item/storage/trash_stack,
 /turf/open/floor/wood/ms13/carpet,
@@ -24513,7 +24483,6 @@
 "ojh" = (
 /obj/structure/bed/ms13/bedframe/wire,
 /obj/structure/bed/ms13/mattress/old,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/wood/ms13/carpet,
 /area/ms13/sunny_dale)
 "ojk" = (
@@ -24539,7 +24508,6 @@
 "ojP" = (
 /obj/structure/bed/ms13/sleepingbag/red,
 /obj/effect/decal/cleanable/blood/gibs/down,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/plasteel/ms13/tile,
 /area/ms13/sunny_dale)
 "ojX" = (
@@ -24612,7 +24580,6 @@
 	pixel_x = -6;
 	pixel_y = 5
 	},
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/plating/ground/sidewalk,
 /area/ms13)
 "one" = (
@@ -25632,7 +25599,6 @@
 /obj/item/ammo_casing/c10mm,
 /obj/effect/decal/cleanable/blood/gibs/old,
 /obj/effect/decal/cleanable/blood/old,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/item/clothing/glasses/eyepatch,
 /turf/open/floor/wood/ms13/common,
 /area/ms13/sunny_dale)
@@ -25836,12 +25802,6 @@
 	},
 /turf/open/floor/plating/ground/mountain,
 /area/ms13/underground/subway)
-"oWP" = (
-/obj/structure/table_frame/wood,
-/obj/effect/decal/cleanable/blood,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
-/turf/open/floor/wood/ms13/common,
-/area/ms13/sunny_dale)
 "oWV" = (
 /obj/effect/decal/cleanable/glass,
 /obj/effect/decal/cleanable/glass{
@@ -26976,7 +26936,6 @@
 /area/ms13/sunny_dale)
 "pAR" = (
 /obj/structure/bed/ms13/sleepingbag/green,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/decal/cleanable/vomit/old{
 	pixel_x = 9;
 	pixel_y = -10
@@ -28297,7 +28256,6 @@
 /turf/open/floor/wood/ms13/common,
 /area/ms13/sunny_dale)
 "qoQ" = (
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/mapping_helpers/sunlight/roofSetter/wood,
 /obj/effect/decal/cleanable/blood,
 /turf/open/floor/wood/ms13/common,
@@ -28339,7 +28297,6 @@
 /obj/effect/decal/cleanable/food/tomato_smudge{
 	name = "Blood smudge"
 	},
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/item/restraints/handcuffs,
 /obj/machinery/light/small/broken{
 	dir = 1
@@ -28634,7 +28591,6 @@
 /obj/structure/bed/ms13/mattress/dirty,
 /obj/effect/decal/cleanable/blood,
 /obj/effect/decal/cleanable/blood/splatter,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/wood/ms13/common,
 /area/ms13/sunny_dale)
 "qzD" = (
@@ -30188,7 +30144,6 @@
 /turf/open/floor/wood/ms13/common,
 /area/ms13/sunny_dale)
 "rlD" = (
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/decal/cleanable/blood/splatter{
 	pixel_y = -6
 	},
@@ -30445,7 +30400,6 @@
 "rrL" = (
 /obj/item/ammo_casing/c10mm,
 /obj/effect/decal/cleanable/blood/old,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/spawner/lootdrop/ms13/gun/tier1,
 /turf/open/floor/plating/ground/road,
 /area/ms13)
@@ -30511,7 +30465,6 @@
 /obj/structure/bed/ms13/bedframe/metal,
 /obj/structure/bed/ms13/mattress/stained,
 /obj/effect/decal/cleanable/blood,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/wood/ms13/common,
 /area/ms13/sunny_dale)
 "rti" = (
@@ -32328,7 +32281,6 @@
 /turf/open/floor/plasteel/ms13/metal,
 /area/ms13/underground/bos)
 "sub" = (
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/decal/cleanable/blood,
 /turf/open/floor/plating/ground/road,
 /area/ms13)
@@ -32866,7 +32818,6 @@
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 9
 	},
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/plasteel/ms13/tile,
 /area/ms13/sunny_dale)
 "sJT" = (
@@ -34511,7 +34462,6 @@
 /obj/effect/decal/cleanable/blood/gibs/old,
 /obj/effect/decal/cleanable/blood/bubblegum,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/plating/ground/dirt,
 /area/ms13/underground/mountain)
 "tLP" = (
@@ -35319,7 +35269,6 @@
 "ujM" = (
 /obj/structure/bed/roller,
 /obj/effect/decal/cleanable/blood,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /turf/open/floor/plasteel/ms13/tile,
 /area/ms13/sunny_dale)
 "ujO" = (
@@ -36329,7 +36278,6 @@
 /obj/structure/toilet{
 	pixel_y = 13
 	},
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/decal/cleanable/blood/gibs/bubblegum,
 /obj/item/ammo_casing/c10mm,
 /obj/item/gun/ballistic/automatic/pistol/ms13/m10mm{
@@ -39929,7 +39877,6 @@
 /area/ms13/underground/vault_atrium_Lower)
 "wTc" = (
 /obj/structure/chair/comfy/ms13/ergo,
-/obj/effect/mob_spawn/human/corpse/ms13/wastelander,
 /obj/effect/decal/cleanable/blood/splatter{
 	pixel_x = 5;
 	pixel_y = 6
@@ -63965,7 +63912,7 @@ afK
 afK
 afK
 abE
-mMn
+iIP
 abE
 afK
 afK
@@ -83549,7 +83496,7 @@ afK
 afK
 afK
 afK
-dHP
+abE
 cPY
 abE
 afK
@@ -163048,7 +162995,7 @@ aDo
 uya
 pwP
 rty
-oWP
+pzz
 pFE
 rty
 rty
@@ -170728,7 +170675,7 @@ aDo
 aDo
 aDo
 aDo
-jBL
+sub
 ldh
 aDo
 aDo
