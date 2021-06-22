@@ -3264,6 +3264,7 @@
 #include "F_weebcity\jobs\_job_parent.dm"
 #include "F_weebcity\jobs\_jobs.dm"
 #include "F_weebcity\jobs\job_datums\civilian.dm"
+#include "F_weebcity\jobs\job_datums\doctor.dm"
 #include "F_weebcity\jobs\job_datums\farmer.dm"
 #include "F_weebcity\jobs\job_datums\mayor.dm"
 #include "F_weebcity\jobs\job_datums\sheriff.dm"
