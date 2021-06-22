@@ -1,6 +1,7 @@
 /datum/movespeed_modifier/obesity
 	multiplicative_slowdown = 1.5
 
+
 /datum/movespeed_modifier/monkey_reagent_speedmod
 	variable = TRUE
 
@@ -15,6 +16,9 @@
 
 /datum/movespeed_modifier/slaughter
 	multiplicative_slowdown = -1
+
+/datum/movespeed_modifier/sprint
+	multiplicative_slowdown = -0.65
 
 /datum/movespeed_modifier/damage_slowdown
 	blacklisted_movetypes = FLOATING|FLYING

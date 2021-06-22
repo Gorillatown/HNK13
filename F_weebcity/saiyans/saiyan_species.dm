@@ -1,11 +1,11 @@
 /datum/species/human/saiyan
 	name = "Saiyan"
 
-	brutemod = 0.75
-	burnmod = 0.65
+	brutemod = 0.6
+	burnmod = 0.6
 	stunmod = 0.6
-	speedmod = -1
-	armor = 10
+	speedmod = -0.75
+	armor = 25
 
 	punchdamagelow = 9
 	punchdamagehigh = 18

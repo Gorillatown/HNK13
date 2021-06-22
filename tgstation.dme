@@ -3261,6 +3261,7 @@
 #include "F_weebcity\gamemode\ghetto_dynamic.dm"
 #include "F_weebcity\gamemode\antag_datums\datum_saiyan.dm"
 #include "F_weebcity\saiyans\saiyan_items.dm"
+#include "F_weebcity\saiyans\saiyan_powers.dm"
 #include "F_weebcity\saiyans\saiyan_species.dm"
 #include "interface\interface.dm"
 #include "interface\menu.dm"

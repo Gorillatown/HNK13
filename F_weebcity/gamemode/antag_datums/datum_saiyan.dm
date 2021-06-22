@@ -5,10 +5,14 @@
 	antagpanel_category = "Saiyan"
 	show_to_ghosts = TRUE
 	var/datum/team/saiyans/crew
+	var/list/powers = list(/obj/effect/proc_holder/spell/saiyan/self/zenkai, /obj/effect/proc_holder/spell/saiyan/self/breakout, /obj/effect/proc_holder/spell/saiyan/self/sprint)
 
 /datum/antagonist/saiyan/on_gain()
 	var/mob/living/carbon/human/our_saiyan = owner.current
 	our_saiyan.set_species(/datum/species/human/saiyan)
+	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/zenkai())
+	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/breakout())
+	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/sprint())
 	. = ..()
 
 /datum/antagonist/saiyan/greet()
