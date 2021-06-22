@@ -1,4 +1,4 @@
-/datum/job/ms13/town/farmer
+/datum/job/weebcity/farmer
 	title = "Town Farmer"
 	selection_color = "#4feb64"
 	total_positions = 2
@@ -8,13 +8,13 @@
 	forbid = ""
 	enforce = ""
 
-	outfit = /datum/outfit/job/ms13/town/farmer
+	outfit = /datum/outfit/job/weebcity/farmer
 
-	display_order = JOB_DISPLAY_ORDER_MS13_FARMER
+	display_order = JOB_DISPLAY_ORDER_FARMER
 
-/datum/outfit/job/ms13/town/farmer
+/datum/outfit/job/weebcity/farmer
 	name = "_Town Farmer"
-	jobtype = /datum/job/ms13/town/farmer
+	jobtype = /datum/job/weebcity/farmer
 
 	suit =       /obj/item/clothing/suit/apron/waders/ms13
 	uniform =    /obj/item/clothing/under/ms13/vaultsuit
@@ -22,5 +22,5 @@
 	shoes =  	 /obj/item/clothing/shoes/ms13/military/vault
 	back =	 	 /obj/item/storage/backpack/
 
-/datum/outfit/job/ms13/town/farmer/pre_equip(mob/living/carbon/human/H)
+/datum/outfit/job/weebcity/farmer/pre_equip(mob/living/carbon/human/H)
 	..()
