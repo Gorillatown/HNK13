@@ -13,8 +13,13 @@ Format:
 	votable (is this map votable)
 endmap
 
-map mammoth
+map fuckdrome
 	default
+	voteweight 100
+	votable
+endmap
+
+map mammoth
 	voteweight 100
 	votable
 endmap
@@ -60,4 +65,8 @@ map multiz_debug
 endmap
 
 map combatarena
+	voteweight 100
+	votable
 endmap
+
+
