@@ -8,7 +8,7 @@ A server forked from Mojave Sun which is forked from tgstation
 * **Discord:** Soon
 * **Coderbus Discord:** https://discord.gg/Vh8TJp9
 
-Its a bunch of shit test
+Its a bunch of shit
 
 ## LICENSE
 
