@@ -28,7 +28,11 @@
 		to_chat(user, "You scribble the [registered_name] for the name on the badge.")
 		update_label()
 	return ..()
-
+/obj/item/card/id/ms13/detective
+	name = "detective's badge"
+	desc = "A silver badge which shows honour and dedication. Has some electronic workings sloppily attached to the back of it."
+	assignment = "Detective"
+	icon_state = "deputy"
 /obj/item/card/id/ms13/sheriff
 	name = "sheriff's badge"
 	desc = "A golden Sheriff's badge. Has some electronic workings sloppily attached to the back of it."
