@@ -1,4 +1,4 @@
-## Hokuto No Ken 13
+## Weebcity
 A server forked from Mojave Sun which is forked from tgstation
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
@@ -8,7 +8,7 @@ A server forked from Mojave Sun which is forked from tgstation
 * **Discord:** Soon
 * **Coderbus Discord:** https://discord.gg/Vh8TJp9
 
-Hokuto No Ken 13 is a post-apocalyptic SS13 server based on modern /tg/station.
+Its a bunch of shit
 
 ## LICENSE
 
