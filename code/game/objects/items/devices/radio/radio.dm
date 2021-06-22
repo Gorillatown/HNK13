@@ -256,7 +256,9 @@
 
 	if(use_command)
 		spans |= SPAN_COMMAND
-
+	var/mob/living/carbon/human/Z = M
+	if(!(Z.get_assignment() == "News Anchor"))
+		return 0
 	/*
 	Roughly speaking, radios attempt to make a subspace transmission (which
 	is received, processed, and rebroadcast by the telecomms satellite) and
