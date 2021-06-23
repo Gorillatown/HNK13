@@ -13,10 +13,8 @@
 	display_order = JOB_DISPLAY_ORDER_MANAGER
 
 /datum/outfit/job/weebcity/manager
-	name = "_Warehouse Manager"
+	name = "Warehouse Manager"
 	jobtype = /datum/job/weebcity/manager
-
-	head = 		/obj/item/clothing/head/helmet/ms13/utilitycap/green
 	uniform =    /obj/item/clothing/under/ms13/wasteland/gentlemansuit
 	shoes =  	 /obj/item/clothing/shoes/ms13/military/vault
 	back =	 	 /obj/item/storage/backpack/

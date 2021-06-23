@@ -14,8 +14,6 @@
 /datum/outfit/job/weebcity/trashman
 	name = "Trash Man"
 	jobtype = /datum/job/weebcity/trashman
-
-	head = 		/obj/item/clothing/head/helmet/ms13/utilitycap/green
 	uniform =    /obj/item/clothing/under/ms13/wasteland/roving
 	gloves = 	 /obj/item/clothing/gloves/ms13/leather
 	shoes =  	 /obj/item/clothing/shoes/ms13/military/vault
