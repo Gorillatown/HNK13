@@ -1,14 +1,21 @@
 GLOBAL_LIST_INIT(town_positions, list(
 	"Mayor",
 	"Secretary",
-	"Farmer",
-	"Doctor",
-	"Scientist",
 	"Sheriff",
 	"Deputy",
 	"Detective",
-	"Civilian",
-	"News Anchor"))
+	"WcDonalds Chef",
+	"Town Farmer",
+	"Doctor",
+	"Scientist",
+	"Chief Engineer",
+	"Engineer",
+	"Warehouse Manager",
+	"Warehouse Crew",
+	"Trash Man",
+	"Lawyer",
+	"News Anchor",
+	"Civilian"))
 
 // job categories for rendering the late join menu
 GLOBAL_LIST_INIT(ms13_position_categories, list(

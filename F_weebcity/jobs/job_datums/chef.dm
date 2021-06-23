@@ -1,7 +1,8 @@
 /datum/job/weebcity/chef
 	title = "WcDonalds Chef"
-	total_positions = 2
-	spawn_positions = 2
+	selection_color = "#f59300"
+	total_positions = 1
+	spawn_positions = 1
 	supervisors = "Mayor and Sheriff"
 	description = "Use the animals in order to make nice borgers. Or other things, the town depends on you for their lunch."
 	forbid = ""
@@ -12,7 +13,7 @@
 	display_order = JOB_DISPLAY_ORDER_CHEF
 
 /datum/outfit/job/weebcity/chef
-	name = "_WcDonalds Chef"
+	name = "WcDonalds Chef"
 	jobtype = /datum/job/weebcity/chef
 
 	suit =       /obj/item/clothing/suit/toggle/chef

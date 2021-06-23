@@ -1,7 +1,7 @@
 /datum/job/weebcity/trashman
 	title = "Trash Man"
-	total_positions = 1
-	spawn_positions = 1
+	total_positions = 2
+	spawn_positions = 2
 	supervisors = "The Mayor and the Secretary"
 	description = "Do all the grunt work for the Manager, he's your boss, he pays the bills."
 	forbid = ""
@@ -12,7 +12,7 @@
 	display_order = JOB_DISPLAY_ORDER_TRASHMAN
 
 /datum/outfit/job/weebcity/trashman
-	name = "_Trash Man"
+	name = "Trash Man"
 	jobtype = /datum/job/weebcity/trashman
 
 	head = 		/obj/item/clothing/head/helmet/ms13/utilitycap/green

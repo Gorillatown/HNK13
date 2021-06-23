@@ -13,7 +13,7 @@
 	display_order = JOB_DISPLAY_ORDER_CREW
 
 /datum/outfit/job/weebcity/crew
-	name = "_Warehouse Manager"
+	name = "Warehouse Crew"
 	jobtype = /datum/job/weebcity/crew
 
 	head = 		/obj/item/clothing/head/helmet/ms13/utilitycap/green

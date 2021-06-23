@@ -1,5 +1,6 @@
 /datum/job/weebcity/farmer
 	title = "Town Farmer"
+	selection_color = "#ffaf37"
 	total_positions = 2
 	spawn_positions = 2
 	supervisors = "Mayor and the Sheriff."

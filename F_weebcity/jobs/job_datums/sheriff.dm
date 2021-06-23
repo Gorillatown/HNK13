@@ -13,7 +13,7 @@
 	display_order = JOB_DISPLAY_ORDER_SHERIFF
 
 /datum/outfit/job/weebcity/sheriff
-	name = "_Town Sheriff"
+	name = "Town Sheriff"
 	jobtype = /datum/job/weebcity/sheriff
 
 	id = 		 /obj/item/card/id/ms13/sheriff
@@ -29,5 +29,5 @@
 	r_pocket = /obj/item/ammo_box/ms13/tube357
 	l_pocket = /obj/item/ammo_box/ms13/tube357
 
-/datum/outfit/job/weebcity/pre_equip(mob/living/carbon/human/H)
+/datum/outfit/job/weebcity/sheriff/pre_equip(mob/living/carbon/human/H)
 	..()

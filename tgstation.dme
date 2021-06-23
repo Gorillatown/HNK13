@@ -3276,6 +3276,8 @@
 #include "F_weebcity\jobs\job_datums\manager.dm"
 #include "F_weebcity\jobs\job_datums\mayor.dm"
 #include "F_weebcity\jobs\job_datums\newsanchor.dm"
+#include "F_weebcity\jobs\job_datums\researchdirector.dm"
+#include "F_weebcity\jobs\job_datums\scientist.dm"
 #include "F_weebcity\jobs\job_datums\secretary.dm"
 #include "F_weebcity\jobs\job_datums\sheriff.dm"
 #include "F_weebcity\jobs\job_datums\trashman.dm"

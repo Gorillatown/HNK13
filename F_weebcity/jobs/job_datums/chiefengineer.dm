@@ -1,7 +1,8 @@
 /datum/job/weebcity/chiefengineer
 	title = "Chief Engineer"
-	total_positions = 2
-	spawn_positions = 2
+	selection_color = "#c70000"
+	total_positions = 1
+	spawn_positions = 1
 	supervisors = "The Mayor"
 	description = "Make sure the Power Plant runs, also deligate."
 	forbid = ""

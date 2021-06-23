@@ -1,6 +1,6 @@
 /datum/job/weebcity/manager
 	title = "Warehouse Manager"
-	selection_color = "#9b6500"
+	selection_color = "#ad7918"
 	total_positions = 1
 	spawn_positions = 1
 	supervisors = "The Mayor"

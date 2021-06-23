@@ -1,5 +1,6 @@
 /datum/job/weebcity/engineer
 	title = "Engineer"
+	selection_color = "#f02424"
 	total_positions = 2
 	spawn_positions = 2
 	supervisors = "Chief Engineer"

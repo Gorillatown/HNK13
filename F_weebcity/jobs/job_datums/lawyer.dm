@@ -9,10 +9,10 @@
 
 	outfit = /datum/outfit/job/weebcity/lawyer
 
-	display_order = JOB_DISPLAY_ORDER_MANAGER
+	display_order = JOB_DISPLAY_ORDER_LAWYER
 
 /datum/outfit/job/weebcity/lawyer
-	name = "_Lawyer"
+	name = "Lawyer"
 	jobtype = /datum/job/weebcity/lawyer
 
 	head = 		/obj/item/clothing/head/helmet/ms13/cowboy/heeledhat
