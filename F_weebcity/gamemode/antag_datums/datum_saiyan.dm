@@ -13,6 +13,7 @@
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/zenkai())
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/breakout())
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/sprint())
+	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/aoe/garlicgun())
 	. = ..()
 
 /datum/antagonist/saiyan/greet()

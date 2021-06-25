@@ -40,12 +40,10 @@
 	var/scoped_slow = 1
 	var/aiming_time_increase_angle_multiplier = 0.3
 	var/last_process = 0
-
 	var/lastangle = 0
 	var/aiming_lastangle = 0
 	var/mob/current_user = null
 	var/list/obj/effect/projectile/tracer/current_tracers
-
 	var/structure_piercing = 2				//Amount * 2. For some reason structures aren't respecting this unless you have it doubled. Probably with the objects in question's Bump() code instead of this but I'll deal with this later.
 	var/structure_bleed_coeff = 0.7
 	var/wall_pierce_amount = 0
@@ -62,7 +60,6 @@
 	var/projectile_setting_pierce = TRUE
 	var/delay = 25
 	var/lastfire = 0
-
 	//ZOOMING
 	var/zoom_current_view_increase = 0
 	///The radius you want to zoom by
