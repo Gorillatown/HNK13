@@ -9,6 +9,8 @@
 
 /datum/antagonist/saiyan/on_gain()
 	var/mob/living/carbon/human/our_saiyan = owner.current
+	for(var/obj/effect/landmark/saiyan_start/saiyan in GLOB.landmarks_list)
+		our_saiyan.loc = saiyan.loc
 	our_saiyan.set_species(/datum/species/human/saiyan)
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/zenkai())
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/breakout())
