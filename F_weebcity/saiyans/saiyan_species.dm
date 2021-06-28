@@ -11,7 +11,7 @@
 	punchdamagehigh = 18
 	punchstunthreshold = 14
 	mutant_organs = list(/obj/item/organ/tail/saiyan)
-	inherent_traits = list(TRAIT_VIRUSIMMUNE, TRAIT_RADIMMUNE)
+	inherent_traits = list(TRAIT_VIRUSIMMUNE, TRAIT_RADIMMUNE, TRAIT_NOLIMBDISABLE)
 
 	//dies_at_threshold = FALSE
 
