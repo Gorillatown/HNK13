@@ -1,9 +1,20 @@
 GLOBAL_LIST_INIT(town_positions, list(
 	"Mayor",
-	"Farmer",
+	"Secretary",
+	"Sheriff",
+	"Deputy",
+	"Detective",
+	"WcDonalds Chef",
+	"Town Farmer",
 	"Doctor",
 	"Scientist",
-	"Sheriff",
+	"Chief Engineer",
+	"Engineer",
+	"Warehouse Manager",
+	"Warehouse Crew",
+	"Trash Man",
+	"Lawyer",
+	"News Anchor",
 	"Civilian"))
 
 // job categories for rendering the late join menu

@@ -1,5 +1,6 @@
 /datum/job/weebcity/doctor
 	title = "Doctor"
+	selection_color = "#0642c2"
 	total_positions = 2
 	spawn_positions = 2
 	supervisors = "Mayor and the Sheriff."
@@ -12,7 +13,7 @@
 	display_order = JOB_DISPLAY_ORDER_DOCTOR
 
 /datum/outfit/job/weebcity/doctor
-	name = "_Town Doctor"
+	name = "Doctor"
 	jobtype = /datum/job/weebcity/doctor
 
 	suit =       /obj/item/clothing/suit/ms13/vaultlab

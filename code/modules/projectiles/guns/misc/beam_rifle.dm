@@ -40,12 +40,10 @@
 	var/scoped_slow = 1
 	var/aiming_time_increase_angle_multiplier = 0.3
 	var/last_process = 0
-
 	var/lastangle = 0
 	var/aiming_lastangle = 0
 	var/mob/current_user = null
 	var/list/obj/effect/projectile/tracer/current_tracers
-
 	var/structure_piercing = 2				//Amount * 2. For some reason structures aren't respecting this unless you have it doubled. Probably with the objects in question's Bump() code instead of this but I'll deal with this later.
 	var/structure_bleed_coeff = 0.7
 	var/wall_pierce_amount = 0
@@ -62,7 +60,6 @@
 	var/projectile_setting_pierce = TRUE
 	var/delay = 25
 	var/lastfire = 0
-
 	//ZOOMING
 	var/zoom_current_view_increase = 0
 	///The radius you want to zoom by
@@ -72,7 +69,7 @@
 	var/zooming_angle
 	var/current_zoom_x = 0
 	var/current_zoom_y = 0
-
+	var/ignore = FALSE
 	var/datum/action/item_action/zoom_lock_action/zoom_lock_action
 	var/mob/listeningTo
 
@@ -182,6 +179,7 @@
 /obj/item/gun/energy/beam_rifle/proc/aiming_beam(force_update = FALSE)
 	var/diff = abs(aiming_lastangle - lastangle)
 	if(!check_user())
+		to_chat(listeningTo, "<B>Do stuff!</B>")
 		return
 	if(diff < AIMING_BEAM_ANGLE_CHANGE_THRESHOLD && !force_update)
 		return
@@ -216,7 +214,14 @@
 	last_process = world.time
 
 /obj/item/gun/energy/beam_rifle/proc/check_user(automatic_cleanup = TRUE)
-	if(!istype(current_user) || !isturf(current_user.loc) || !(src in current_user.held_items) || current_user.incapacitated())	//Doesn't work if you're not holding it!
+	if(ignore)
+		if(!istype(current_user) || !isturf(current_user.loc) ||  current_user.incapacitated())
+			if(automatic_cleanup)
+				stop_aiming()
+				set_user(null)
+			return FALSE
+		return TRUE
+	else if(!istype(current_user) || !isturf(current_user.loc) || !(src in current_user.held_items) || current_user.incapacitated())	//Doesn't work if you're not holding it!
 		if(automatic_cleanup)
 			stop_aiming()
 			set_user(null)

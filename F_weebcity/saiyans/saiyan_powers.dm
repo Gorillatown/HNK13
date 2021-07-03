@@ -61,11 +61,12 @@
 	var/mob/living/U = user
 	U.remove_CC()
 	U.sprint()
+	to_chat(U, "<B>Do stuff!</B>")
 /mob/living/proc/sprint()
 	//just cause it wasnt working
 	add_movespeed_modifier(/datum/movespeed_modifier/sprint)
 	addtimer(CALLBACK(src, .proc/remove_movespeed_modifier, /datum/movespeed_modifier/sprint), 5 SECONDS, TIMER_UNIQUE | TIMER_OVERRIDE)
-
+	to_chat(src, "<B>Do stuff!</B>")
 /obj/effect/proc_holder/spell/saiyan/self/breakout
 	name = "Break Free"
 	desc = "You are far too powerful to be shackled."

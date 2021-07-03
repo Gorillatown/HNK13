@@ -50,3 +50,9 @@
 		/obj/item/gun/ballistic/revolver/ms13/rev357/lucky = 1,
 		/obj/item/ammo_box/ms13/rev357 = 2)
 	generate_items_inside(items_inside,src)
+
+/obj/item/storage/belt/holster/ms13/detective/rev357_police/PopulateContents()
+	var/static/items_inside = list(
+		/obj/item/gun/ballistic/revolver/ms13/rev357/police = 1,
+		/obj/item/ammo_box/ms13/rev357 = 2)
+	generate_items_inside(items_inside,src)
