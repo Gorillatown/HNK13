@@ -6,6 +6,7 @@
 	show_to_ghosts = TRUE
 	var/datum/team/saiyans/crew
 	var/list/powers = list(/obj/effect/proc_holder/spell/saiyan/self/zenkai, /obj/effect/proc_holder/spell/saiyan/self/breakout, /obj/effect/proc_holder/spell/saiyan/self/sprint)
+	var/saiyan_pod_spawned = FALSE
 
 /datum/antagonist/saiyan/on_gain()
 	var/mob/living/carbon/human/our_saiyan = owner.current
@@ -16,12 +17,17 @@
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/breakout())
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/sprint())
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/targeted/touch/garlicgun())
+	if(crew)
+		objectives |= crew.objectives
 	. = ..()
 
 /datum/antagonist/saiyan/greet()
 	to_chat(owner, "<span class='boldannounce'>You are a Saiyan!</span>")
 	to_chat(owner, "<B>Do stuff!</B>")
 	owner.announce_objectives()
+
+//datum/antagonist/saiyan/proc/create_saiyan_pod()
+
 
 /datum/antagonist/saiyan/get_team()
 	return crew
@@ -30,7 +36,7 @@
 	if(!new_team)
 		for(var/datum/antagonist/saiyan/P in GLOB.antagonists)
 			if(!P.owner)
-				stack_trace("Antagonist datum without owner in GLOB.antagonists: [P]")
+				//stack_trace("Antagonist datum without owner in GLOB.antagonists: [P]") This runtimes on pirate too
 				continue
 			if(P.crew) //If we find a crew
 				crew = P.crew //our crew is that crew
@@ -42,11 +48,6 @@
 	if(!istype(new_team))
 		stack_trace("Wrong team type passed to [type] initialization.")
 	crew = new_team
-
-/datum/antagonist/saiyan/on_gain()
-	if(crew)
-		objectives |= crew.objectives
-	. = ..()
 
 /datum/team/saiyans
 	name = "Saiyan crew"
