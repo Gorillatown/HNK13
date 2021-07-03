@@ -1,7 +1,9 @@
+/*
 var/list/saiyan_pod_shuttlecomp = list()
 var/list/saiyan_pod_cameracomp = list()
 var/list/saiyan_pod_mobile_port = list()
 var/list/saiyan_pod_stationary_port = list()
+*/
 ////////////////////////////////////////////////////////////////////////////
 /obj/machinery/computer/shuttle/saiyan_pod
 	name = "saiyan pod console"
