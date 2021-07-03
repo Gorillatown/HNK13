@@ -6,7 +6,6 @@
 	show_to_ghosts = TRUE
 	var/datum/team/saiyans/crew
 	var/list/powers = list(/obj/effect/proc_holder/spell/saiyan/self/zenkai, /obj/effect/proc_holder/spell/saiyan/self/breakout, /obj/effect/proc_holder/spell/saiyan/self/sprint)
-	var/saiyan_pod_spawned = FALSE
 
 /datum/antagonist/saiyan/on_gain()
 	var/mob/living/carbon/human/our_saiyan = owner.current
@@ -25,9 +24,6 @@
 	to_chat(owner, "<span class='boldannounce'>You are a Saiyan!</span>")
 	to_chat(owner, "<B>Do stuff!</B>")
 	owner.announce_objectives()
-
-//datum/antagonist/saiyan/proc/create_saiyan_pod()
-
 
 /datum/antagonist/saiyan/get_team()
 	return crew
