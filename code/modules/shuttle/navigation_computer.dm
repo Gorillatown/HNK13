@@ -5,8 +5,8 @@
 	should_supress_view_changes  = FALSE
 
 	// Docking cameras should only interact with their current z-level.
-	move_up_action = null
-	move_down_action = null
+	//move_up_action = null
+	//move_down_action = null
 
 	var/datum/action/innate/shuttledocker_rotate/rotate_action = new
 	var/datum/action/innate/shuttledocker_place/place_action = new

@@ -48,7 +48,7 @@
 	var/power_light = TRUE
 	var/power_environ = TRUE
 
-	var/has_gravity = FALSE
+	var/has_gravity = STANDARD_GRAVITY
 
 	var/parallax_movedir = 0
 

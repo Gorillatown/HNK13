@@ -16,6 +16,8 @@
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/breakout())
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/saiyan/self/sprint())
 	our_saiyan.mind.AddSpell(new /obj/effect/proc_holder/spell/targeted/touch/garlicgun())
+	if(crew)
+		objectives |= crew.objectives
 	. = ..()
 
 /datum/antagonist/saiyan/greet()
@@ -30,7 +32,7 @@
 	if(!new_team)
 		for(var/datum/antagonist/saiyan/P in GLOB.antagonists)
 			if(!P.owner)
-				stack_trace("Antagonist datum without owner in GLOB.antagonists: [P]")
+				//stack_trace("Antagonist datum without owner in GLOB.antagonists: [P]") This runtimes on pirate too
 				continue
 			if(P.crew) //If we find a crew
 				crew = P.crew //our crew is that crew
@@ -42,11 +44,6 @@
 	if(!istype(new_team))
 		stack_trace("Wrong team type passed to [type] initialization.")
 	crew = new_team
-
-/datum/antagonist/saiyan/on_gain()
-	if(crew)
-		objectives |= crew.objectives
-	. = ..()
 
 /datum/team/saiyans
 	name = "Saiyan crew"

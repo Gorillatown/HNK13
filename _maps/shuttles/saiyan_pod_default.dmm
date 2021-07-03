@@ -1,0 +1,19 @@
+"a" = (/turf/closed/wall/mineral/titanium/survival/pod,/area/shuttle/saiyan_pod)
+"o" = (/obj/machinery/stasis/survival_pod,/turf/open/floor/pod,/area/shuttle/saiyan_pod)
+"p" = (/obj/structure/fans/tiny,/obj/machinery/door/airlock/survival_pod/glass,/turf/open/floor/pod,/area/shuttle/saiyan_pod)
+"x" = (/obj/docking_port/mobile/saiyan_pod,/turf/open/floor/pod,/area/shuttle/saiyan_pod)
+"y" = (/obj/structure/fans,/turf/open/floor/pod,/area/shuttle/saiyan_pod)
+"J" = (/obj/item/gps/computer,/turf/open/floor/pod,/area/shuttle/saiyan_pod)
+"K" = (/obj/structure/bed/pod,/obj/item/bedsheet/black,/turf/open/floor/pod,/area/shuttle/saiyan_pod)
+"L" = (/obj/structure/tubes,/obj/machinery/computer/shuttle/saiyan_pod{dir = 8},/turf/open/floor/pod,/area/shuttle/saiyan_pod)
+"W" = (/turf/open/floor/pod,/area/shuttle/saiyan_pod)
+"Y" = (/obj/machinery/computer/camera_advanced/shuttle_docker/syndicate/saiyan_pod{dir = 4},/turf/open/floor/pod,/area/shuttle/saiyan_pod)
+"Z" = (/obj/machinery/smartfridge/survival_pod/preloaded,/turf/open/floor/pod,/area/shuttle/saiyan_pod)
+
+(1,1,1) = {"
+aaaaa
+ayZJa
+aoxKa
+aYWLa
+aapaa
+"}
