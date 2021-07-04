@@ -5,6 +5,9 @@
 #define DESOLATE_PLANT_SPAWN_LIST list(/obj/structure/flora/grass/wasteland/snow = 10, /obj/structure/flora/bush = 1)
 #define MUSHROOM_SPAWN_LIST list(/obj/structure/flora/ms13/forage/mushroom = 5, /obj/structure/flora/ms13/forage/mushroom/glowing = 1)
 
+
+#define DESERT_LUSH_SPAWN_LIST list(/obj/structure/flora/ms13/tree/joshua = 5,/obj/structure/flora/ms13/tree/cactus = 5, /obj/structure/flora/ms13/tree/wasteland = 5)
+#define DESERT_DESOLATE_SPAWN_LIST list(/obj/structure/flora/ms13/tree/cactus = 5)
 /////////////////////////////////////////////////////////////
 /////////////////// MOJAVE SUN PLATINGS /////////////////////
 /////////////////////////////////////////////////////////////
@@ -98,7 +101,7 @@
 
 	//spontaneously spawn grass
 	if(Plantforce || prob(GRASS_SPONTANEOUS))
-		randPlant = pickweight(LUSH_PLANT_SPAWN_LIST) //Create a new grass object at this location, and assign var
+		randPlant = pickweight(DESERT_LUSH_SPAWN_LIST) //Create a new grass object at this location, and assign var
 		turfPlant = new randPlant(src)
 		. = TRUE //in case we ever need this to return if we spawned
 		return .
@@ -113,9 +116,9 @@
 
 		//If surrounded on 5+ sides, pick from lush
 		if(Weight == (5 * GRASS_WEIGHT))
-			randPlant = pickweight(LUSH_PLANT_SPAWN_LIST)
+			randPlant = pickweight(DESERT_LUSH_SPAWN_LIST)
 		else
-			randPlant = pickweight(DESOLATE_PLANT_SPAWN_LIST)
+			randPlant = pickweight(DESERT_DESOLATE_SPAWN_LIST)
 		turfPlant = new randPlant(src)
 		. = TRUE
 
